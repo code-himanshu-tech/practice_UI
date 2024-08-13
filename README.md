@@ -15,10 +15,3 @@ Finizon is a user interface design for a financial application, aimed at providi
 - **Bootstrap:** Responsive design and components.
 - **CSS:** Custom styling and layout.
 
-## Installation
-
-To view the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/finizon.git
