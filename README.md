@@ -1,24 +1,24 @@
-UI Projects Collection
-Overview
-This repository features a collection of UI projects created using basic HTML, Bootstrap, and CSS. Each project aims to either clone or improve the UI of real-life companies, showcasing responsive and modern design principles.
+# Finizon - Financial App UI
 
-Projects
-1. [Project Name]
-Description: A UI clone of [Company Name]'s website with a focus on replicating its layout and design.
-Live Demo: [Link to Live Demo]
-Screenshots:
-Technologies Used: HTML, Bootstrap, CSS
-2. [Project Name]
-Description: An improved UI design for [Company Name]'s website, featuring enhanced responsiveness and visual aesthetics.
-Live Demo: [Link to Live Demo]
-Screenshots:
-Technologies Used: HTML, Bootstrap, CSS
-3. [Project Name]
-Description: A UI redesign of [Company Name]'s platform, aimed at modernizing its look and feel while maintaining usability.
-Live Demo: [Link to Live Demo]
-Screenshots:
-Technologies Used: HTML, Bootstrap, CSS
-Features
-Responsive Design
-Cross-Browser Compatibility
-Modern UI/UX Enhancements
+Finizon is a user interface design for a financial application, aimed at providing a clean and intuitive experience for managing financial data. This project showcases my ability to create responsive and modern UIs using basic HTML, Bootstrap, and CSS.
+
+## Features
+
+- **Dashboard:** Overview of financial data with graphs and summaries.
+- **Transactions:** Manage and view detailed transaction history.
+- **Budgets:** Set and track budget goals.
+- **Reports:** Generate and view financial reports.
+
+## Technologies Used
+
+- **HTML:** Structuring the content.
+- **Bootstrap:** Responsive design and components.
+- **CSS:** Custom styling and layout.
+
+## Installation
+
+To view the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/finizon.git
